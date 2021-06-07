@@ -1,0 +1,503 @@
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+anaconda-client==1.7.2
+anaconda-navigator==2.0.3
+anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1621348054992/work
+anyascii==0.2.0
+anyio==3.1.0
+appdirs==1.4.4
+AppKit==0.2.8
+applaunchservices==0.2.1
+appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
+appscript @ file:///opt/concourse/worker/volumes/live/82e8b4c7-2416-4d10-509e-144ca79d9b1d/volume/appscript_1611426996703/work
+argcomplete==1.12.3
+argh==0.26.2
+argon2-cffi @ file:///opt/concourse/worker/volumes/live/d733ceb5-7f19-407b-7da7-a386540ab855/volume/argon2-cffi_1613037492998/work
+arrow==1.1.0
+asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
+astroid==2.5.6
+astropy @ file:///opt/concourse/worker/volumes/live/0a514e04-301a-48f9-530f-90365df6420e/volume/astropy_1617745469121/work
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+autocorrect==2.5.0
+autopep8==1.5.7
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+backports.shutil-get-terminal-size @ file:///tmp/build/80754af9/backports.shutil_get_terminal_size_1608222128777/work
+backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+backports.weakref==1.0.post1
+beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+binaryornot==0.4.4
+bitarray @ file:///opt/concourse/worker/volumes/live/8a51e4ff-5d78-46c1-45c6-5df5fa3f52c4/volume/bitarray_1620827546654/work
+bkcharts==0.2
+black==20.8b1
+bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
+bokeh @ file:///opt/concourse/worker/volumes/live/65ce9588-f765-4deb-5b52-1c552a693654/volume/bokeh_1620783891289/work
+boto==2.49.0
+boto3==1.17.86
+botocore==1.20.86
+Bottleneck==1.3.2
+brotlipy==0.7.0
+cached-property==1.5.2
+cachetools==4.2.2
+certifi==2021.5.30
+cffi @ file:///opt/concourse/worker/volumes/live/0ef369cc-6ba0-47e7-75da-208c6400381d/volume/cffi_1613246948181/work
+chardet @ file:///opt/concourse/worker/volumes/live/c798b2ee-88b1-4341-6830-161a92c2399e/volume/chardet_1607706832595/work
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+clyent==1.2.2
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+coloredlogs==15.0
+compressed-rtf==1.0.6
+conda==4.10.1
+conda-build==3.21.4
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
+conda-package-handling @ file:///opt/concourse/worker/volumes/live/73497069-9b43-4ad9-50ec-1abb340e14eb/volume/conda-package-handling_1618262140058/work
+conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+conda-verify==3.4.2
+configparser==5.0.2
+contextlib2==0.6.0.post1
+contractions==0.0.49
+cookiecutter==1.7.3
+crayons==0.4.0
+cryptography @ file:///opt/concourse/worker/volumes/live/c515855a-effc-46df-74dc-542901b701da/volume/cryptography_1616769282442/work
+cssselect2==0.4.1
+cycler==0.10.0
+Cython @ file:///opt/concourse/worker/volumes/live/da4db94a-3449-4978-4400-64181f888dab/volume/cython_1618435143829/work
+cytoolz==0.11.0
+dask @ file:///tmp/build/80754af9/dask-core_1622531687800/work
+decorator==5.0.9
+deep-daze==0.10.2
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+Deprecated==1.2.12
+deprecation==2.1.0
+diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
+distributed @ file:///opt/concourse/worker/volumes/live/f9b0a56d-81fd-42e9-5d91-f85fcf41a787/volume/distributed_1622643711976/work
+docopt==0.6.2
+docutils @ file:///opt/concourse/worker/volumes/live/5fb9307e-f900-46e0-7a3f-bf61cc0172f2/volume/docutils_1620827968414/work
+docx2txt==0.8
+ebcdic==1.1.1
+EbookLib==0.17.1
+einops==0.3.0
+entrypoints==0.3
+et-xmlfile==1.1.0
+extract-msg==0.28.7
+fake-useragent==0.1.11
+fastcache==1.1.0
+filelock @ file:///home/linux1/recipes/ci/filelock_1610993975404/work
+fire==0.4.0
+flake8==3.9.2
+Flask==2.0.1
+fs==2.4.13
+fsspec==2021.5.0
+ftfy==6.0.3
+future==0.18.2
+gensim==4.0.1
+gevent @ file:///opt/concourse/worker/volumes/live/123efac8-0706-463e-4084-078386897222/volume/gevent_1616772940436/work
+glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+gmpy2==2.0.8
+google-auth==1.30.1
+google-auth-oauthlib==0.4.4
+greenlet @ file:///opt/concourse/worker/volumes/live/3ef4f3fa-d3c5-4d18-614a-db20c54a531f/volume/greenlet_1620913631134/work
+gspread==3.7.0
+h5py==3.2.1
+HeapDict==1.0.1
+helpdev==0.7.1
+html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
+humanfriendly==9.1
+idna==2.10
+imagecodecs==2021.5.20
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+imageio-ffmpeg==0.4.4
+imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
+IMAPClient==2.2.0
+importlib-metadata==4.4.0
+inflect==5.3.0
+inflection==0.5.1
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+inputimeout==1.0.4
+insta-scrape==2.1.2
+instaloader==4.7.1
+intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
+ipykernel==5.5.5
+ipython==7.24.1
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
+isort @ file:///tmp/build/80754af9/isort_1616355431277/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+jdcal==1.4.1
+jedi==0.18.0
+Jinja2==3.0.1
+jinja2-time==0.2.0
+jmespath==0.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+json5==0.9.5
+jsonpickle==2.0.0
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter==1.0.0
+jupyter-client==6.1.13
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-core @ file:///opt/concourse/worker/volumes/live/c8df8dce-dbb3-46e7-649c-adf4ed2dd00a/volume/jupyter_core_1612213293829/work
+jupyter-packaging==0.10.2
+jupyter-server==1.8.0
+jupyterlab==3.0.16
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server==2.6.0
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+kaggle==1.5.12
+keyring @ file:///opt/concourse/worker/volumes/live/9bd395b7-ac9a-4d22-790b-ab9dc88e7c19/volume/keyring_1621524569678/work
+kiwisolver @ file:///opt/concourse/worker/volumes/live/0b2f3e77-eaa3-4995-7dd0-c994762fcbde/volume/kiwisolver_1612282417472/work
+lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/e4bc3ba3-f365-4387-5772-cbb667714c62/volume/lazy-object-proxy_1616529072711/work
+libarchive-c==3.1
+llvmlite==0.36.0
+locket==0.2.1
+lxml @ file:///opt/concourse/worker/volumes/live/42fc56a4-88b4-4605-6037-9605f4e5eeeb/volume/lxml_1616443240194/work
+markdown2==2.4.0
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/c9141381-1dba-485b-7c96-99007bf7bcfd/volume/markupsafe_1621528150226/work
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+mccabe==0.6.1
+mistune @ file:///opt/concourse/worker/volumes/live/95802d64-d39c-491b-74ce-b9326880ca54/volume/mistune_1594373201816/work
+mkl-fft==1.3.0
+mkl-random @ file:///opt/concourse/worker/volumes/live/54b31a45-1da5-4512-5c3a-93c9ff2af8bc/volume/mkl_random_1618853970587/work
+mkl-service==2.3.0
+mock @ file:///tmp/build/80754af9/mock_1607622725907/work
+more-itertools==8.8.0
+moviepy==1.0.3
+mpmath==1.2.1
+msgpack @ file:///opt/concourse/worker/volumes/live/d7400f3a-e5de-4e85-5d4c-0c984c648401/volume/msgpack-python_1612287157185/work
+multipledispatch==0.6.0
+mypy-extensions==0.4.3
+navigator-updater==0.2.1
+nbclassic==0.3.1
+nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
+nbconvert @ file:///opt/concourse/worker/volumes/live/2b9c1d93-d0fd-432f-7d93-66c93d81b614/volume/nbconvert_1601914875037/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx @ file:///tmp/build/80754af9/networkx_1617653298338/work
+nltk @ file:///tmp/build/80754af9/nltk_1621347441292/work
+nose @ file:///tmp/build/80754af9/nose_1606773131901/work
+notebook @ file:///opt/concourse/worker/volumes/live/78fd3e35-67c2-490e-7bb9-0627a6db9485/volume/notebook_1621528340294/work
+numba @ file:///opt/concourse/worker/volumes/live/263a950e-7ddc-4297-63df-0c284f0b6d22/volume/numba_1616774255536/work
+numexpr @ file:///opt/concourse/worker/volumes/live/e845d683-bbb9-4fa2-79ce-743b84c61560/volume/numexpr_1618856522192/work
+numpy==1.20.3
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+oauthlib==3.1.1
+olefile==0.46
+opencv-python==4.5.2.52
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+pandas==1.2.4
+pandocfilters @ file:///opt/concourse/worker/volumes/live/c330e404-216d-466b-5327-8ce8fe854d3a/volume/pandocfilters_1605120442288/work
+parso==0.8.2
+partd @ file:///tmp/build/80754af9/partd_1618000087440/work
+path @ file:///opt/concourse/worker/volumes/live/6493576b-552d-426b-432c-5e0fafcd8a43/volume/path_1614022213143/work
+pathlib2 @ file:///opt/concourse/worker/volumes/live/cca4007b-e85e-4f77-430e-d30b2149548d/volume/pathlib2_1607024978319/work
+pathspec==0.8.1
+pathtools==0.1.2
+patsy==0.5.1
+pdfminer.six==20201018
+pdfminer3k==1.3.4
+pdftotext==2.1.6
+pep8==1.7.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///opt/concourse/worker/volumes/live/ca23594b-6e35-4c8c-5637-50ac0b550473/volume/pillow_1617386168018/work
+pipdeptree==2.0.0
+pkginfo==1.7.0
+playsound==1.2.2
+pluggy @ file:///opt/concourse/worker/volumes/live/2d655872-b6f5-4225-538c-dd87e481f5c8/volume/pluggy_1615976700299/work
+ply==3.11
+poyo==0.5.0
+proglog==0.1.9
+prometheus-client==0.11.0
+prompt-toolkit==3.0.18
+psutil @ file:///opt/concourse/worker/volumes/live/0673cd4b-30c1-4470-7490-d8955610f5d5/volume/psutil_1612298002202/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+py @ file:///tmp/build/80754af9/py_1607971587848/work
+pyahocorasick==1.4.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycairo==1.20.0
+pycodestyle==2.7.0
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycryptodome==3.10.1
+pycurl==7.43.0.6
+pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
+pyerfa @ file:///opt/concourse/worker/volumes/live/f87989f6-b347-4e0a-7be4-c3773473f3c6/volume/pyerfa_1621560794706/work
+pyflakes==2.3.1
+PyGithub==1.55
+pygithub3==0.5.1
+Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
+PyGObject==3.40.1
+PyJWT==2.1.0
+pylint==2.8.3
+pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
+pyls-spyder==0.4.0
+PyNaCl==1.4.0
+pyobjc==7.2
+pyobjc-core==7.2
+pyobjc-framework-Accessibility==7.2
+pyobjc-framework-Accounts==7.2
+pyobjc-framework-AddressBook==7.2
+pyobjc-framework-AdServices==7.2
+pyobjc-framework-AdSupport==7.2
+pyobjc-framework-AppleScriptKit==7.2
+pyobjc-framework-AppleScriptObjC==7.2
+pyobjc-framework-ApplicationServices==7.2
+pyobjc-framework-AppTrackingTransparency==7.2
+pyobjc-framework-AuthenticationServices==7.2
+pyobjc-framework-AutomaticAssessmentConfiguration==7.2
+pyobjc-framework-Automator==7.2
+pyobjc-framework-AVFoundation==7.2
+pyobjc-framework-AVKit==7.2
+pyobjc-framework-BusinessChat==7.2
+pyobjc-framework-CalendarStore==7.2
+pyobjc-framework-CallKit==7.2
+pyobjc-framework-CFNetwork==7.2
+pyobjc-framework-ClassKit==7.2
+pyobjc-framework-CloudKit==7.2
+pyobjc-framework-Cocoa==7.2
+pyobjc-framework-Collaboration==7.2
+pyobjc-framework-ColorSync==7.2
+pyobjc-framework-Contacts==7.2
+pyobjc-framework-ContactsUI==7.2
+pyobjc-framework-CoreAudio==7.2
+pyobjc-framework-CoreAudioKit==7.2
+pyobjc-framework-CoreBluetooth==7.2
+pyobjc-framework-CoreData==7.2
+pyobjc-framework-CoreHaptics==7.2
+pyobjc-framework-CoreLocation==7.2
+pyobjc-framework-CoreMedia==7.2
+pyobjc-framework-CoreMediaIO==7.2
+pyobjc-framework-CoreMIDI==7.2
+pyobjc-framework-CoreML==7.2
+pyobjc-framework-CoreMotion==7.2
+pyobjc-framework-CoreServices==7.2
+pyobjc-framework-CoreSpotlight==7.2
+pyobjc-framework-CoreText==7.2
+pyobjc-framework-CoreWLAN==7.2
+pyobjc-framework-CryptoTokenKit==7.2
+pyobjc-framework-DeviceCheck==7.2
+pyobjc-framework-DictionaryServices==7.2
+pyobjc-framework-DiscRecording==7.2
+pyobjc-framework-DiscRecordingUI==7.2
+pyobjc-framework-DiskArbitration==7.2
+pyobjc-framework-DVDPlayback==7.2
+pyobjc-framework-EventKit==7.2
+pyobjc-framework-ExceptionHandling==7.2
+pyobjc-framework-ExecutionPolicy==7.2
+pyobjc-framework-ExternalAccessory==7.2
+pyobjc-framework-FileProvider==7.2
+pyobjc-framework-FileProviderUI==7.2
+pyobjc-framework-FinderSync==7.2
+pyobjc-framework-FSEvents==7.2
+pyobjc-framework-GameCenter==7.2
+pyobjc-framework-GameController==7.2
+pyobjc-framework-GameKit==7.2
+pyobjc-framework-GameplayKit==7.2
+pyobjc-framework-ImageCaptureCore==7.2
+pyobjc-framework-IMServicePlugIn==7.2
+pyobjc-framework-InputMethodKit==7.2
+pyobjc-framework-InstallerPlugins==7.2
+pyobjc-framework-InstantMessage==7.2
+pyobjc-framework-Intents==7.2
+pyobjc-framework-IOSurface==7.2
+pyobjc-framework-iTunesLibrary==7.2
+pyobjc-framework-KernelManagement==7.2
+pyobjc-framework-LatentSemanticMapping==7.2
+pyobjc-framework-LaunchServices==7.2
+pyobjc-framework-libdispatch==7.2
+pyobjc-framework-LinkPresentation==7.2
+pyobjc-framework-LocalAuthentication==7.2
+pyobjc-framework-MapKit==7.2
+pyobjc-framework-MediaAccessibility==7.2
+pyobjc-framework-MediaLibrary==7.2
+pyobjc-framework-MediaPlayer==7.2
+pyobjc-framework-MediaToolbox==7.2
+pyobjc-framework-Metal==7.2
+pyobjc-framework-MetalKit==7.2
+pyobjc-framework-MetalPerformanceShaders==7.2
+pyobjc-framework-MetalPerformanceShadersGraph==7.2
+pyobjc-framework-MLCompute==7.2
+pyobjc-framework-ModelIO==7.2
+pyobjc-framework-MultipeerConnectivity==7.2
+pyobjc-framework-NaturalLanguage==7.2
+pyobjc-framework-NetFS==7.2
+pyobjc-framework-Network==7.2
+pyobjc-framework-NetworkExtension==7.2
+pyobjc-framework-NotificationCenter==7.2
+pyobjc-framework-OpenDirectory==7.2
+pyobjc-framework-OSAKit==7.2
+pyobjc-framework-OSLog==7.2
+pyobjc-framework-PassKit==7.2
+pyobjc-framework-PencilKit==7.2
+pyobjc-framework-Photos==7.2
+pyobjc-framework-PhotosUI==7.2
+pyobjc-framework-PreferencePanes==7.2
+pyobjc-framework-PushKit==7.2
+pyobjc-framework-Quartz==7.2
+pyobjc-framework-QuickLookThumbnailing==7.2
+pyobjc-framework-ReplayKit==7.2
+pyobjc-framework-SafariServices==7.2
+pyobjc-framework-SceneKit==7.2
+pyobjc-framework-ScreenSaver==7.2
+pyobjc-framework-ScreenTime==7.2
+pyobjc-framework-ScriptingBridge==7.2
+pyobjc-framework-SearchKit==7.2
+pyobjc-framework-Security==7.2
+pyobjc-framework-SecurityFoundation==7.2
+pyobjc-framework-SecurityInterface==7.2
+pyobjc-framework-ServiceManagement==7.2
+pyobjc-framework-Social==7.2
+pyobjc-framework-SoundAnalysis==7.2
+pyobjc-framework-Speech==7.2
+pyobjc-framework-SpriteKit==7.2
+pyobjc-framework-StoreKit==7.2
+pyobjc-framework-SyncServices==7.2
+pyobjc-framework-SystemConfiguration==7.2
+pyobjc-framework-SystemExtensions==7.2
+pyobjc-framework-UniformTypeIdentifiers==7.2
+pyobjc-framework-UserNotifications==7.2
+pyobjc-framework-UserNotificationsUI==7.2
+pyobjc-framework-VideoSubscriberAccount==7.2
+pyobjc-framework-VideoToolbox==7.2
+pyobjc-framework-Virtualization==7.2
+pyobjc-framework-Vision==7.2
+pyobjc-framework-WebKit==7.2
+pyodbc==4.0.30
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PyPDF2==1.26.0
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQtWebEngine==5.15.4
+PyQtWebEngine-Qt5==5.15.2
+pyrsistent @ file:///opt/concourse/worker/volumes/live/ff11f3f0-615b-4508-471d-4d9f19fa6657/volume/pyrsistent_1600141727281/work
+PySimpleGUI==4.43.0
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+pytest==6.2.4
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
+python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.0.1
+python-pptx==0.6.19
+python-slugify==5.0.2
+pytorch-ranger==0.1.1
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pyvis==0.1.9
+PyWavelets @ file:///opt/concourse/worker/volumes/live/ea36e10f-66e8-43ae-511e-c4092764493f/volume/pywavelets_1601658378672/work
+PyYAML==5.4.1
+pyzmq==22.1.0
+QDarkStyle==3.0.2
+qstylizer==0.2.0
+QtAwesome @ file:///tmp/build/80754af9/qtawesome_1615991616277/work
+qtconsole==5.1.0
+QtPy==1.9.0
+regex @ file:///opt/concourse/worker/volumes/live/e81f6b8c-e3b5-481b-6b5d-4fa8d9bb9405/volume/regex_1617569701251/work
+reload==0.9
+reportlab==3.5.67
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-futures==1.0.0
+requests-oauthlib==1.3.0
+rope==0.19.0
+rsa==4.7.2
+Rtree @ file:///opt/concourse/worker/volumes/live/7b97d6e1-aeee-4f6d-418c-32be5bbd5ed3/volume/rtree_1618420839839/work
+ruamel-yaml-conda @ file:///opt/concourse/worker/volumes/live/53b096c9-f5b7-4029-7f1b-056927554e08/volume/ruamel_yaml_1616016691174/work
+ruamel.yaml==0.17.7
+ruamel.yaml.clib==0.2.2
+s3transfer==0.4.2
+scikit-image==0.18.1
+scikit-learn @ file:///opt/concourse/worker/volumes/live/27ad05e5-2546-4218-4550-464724750acc/volume/scikit-learn_1621370399611/work
+scipy==1.6.3
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+selenium==3.141.0
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+simplegeneric==0.8.1
+singledispatch==3.6.2
+siren-pytorch==0.1.5
+six==1.16.0
+sklearn==0.0
+slate3k==0.5.3
+slugify==0.0.1
+smart-open==5.1.0
+sniffio @ file:///opt/concourse/worker/volumes/live/1faeb672-6d3f-4f1f-7861-294fcf282962/volume/sniffio_1614030462215/work
+snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1611258885636/work
+sortedcollections @ file:///tmp/build/80754af9/sortedcollections_1611172717284/work
+sortedcontainers==2.4.0
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1616183228191/work
+SpeechRecognition==3.8.1
+Sphinx==4.0.2
+sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
+sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
+sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
+sphinxcontrib-serializinghtml==1.1.5
+sphinxcontrib-websupport @ file:///tmp/build/80754af9/sphinxcontrib-websupport_1597081412696/work
+spyder==5.0.3
+spyder-kernels==2.0.3
+SQLAlchemy==1.4.17
+statsmodels @ file:///opt/concourse/worker/volumes/live/f55add71-53cb-4510-4c08-7ae9e294a482/volume/statsmodels_1614023740731/work
+stem==1.8.0
+svglib==1.1.0
+sympy @ file:///opt/concourse/worker/volumes/live/0bf7d347-8399-4af8-5e6f-4267d4aabdd9/volume/sympy_1618255318469/work
+tables==3.6.1
+tabulate==0.8.9
+tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
+tenacity==7.0.0
+termcolor==1.1.0
+terminado==0.10.0
+testpath==0.5.0
+text-unidecode==1.3
+textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
+textract==1.6.3
+textsearch==0.0.21
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
+tifffile==2021.4.8
+tinycss==0.4
+tinycss2==1.1.0
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomlkit==0.7.2
+toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
+torch==1.8.1
+torch-optimizer==0.1.0
+torchvision==0.9.1
+tornado @ file:///opt/concourse/worker/volumes/live/05341796-4198-4ded-4a9a-332fde3cdfd1/volume/tornado_1606942323372/work
+torrequest==0.1.0
+tqdm==4.61.0
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+typed-ast==1.4.3
+typing-extensions==3.10.0.0
+tzlocal==2.1
+ujson @ file:///opt/concourse/worker/volumes/live/b4182deb-c6ce-4bc8-7783-61027c162049/volume/ujson_1611259506235/work
+unicodecsv==0.14.1
+Unidecode==1.2.0
+urllib3==1.26.5
+verboselogs==1.7
+watchdog==2.1.2
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webdriver-manager==3.4.2
+webencodings==0.5.1
+websocket-client==1.0.1
+Werkzeug==2.0.1
+widgetsnbextension==3.5.1
+wrapt @ file:///opt/concourse/worker/volumes/live/e3646d84-e961-4523-6bed-01532273c57e/volume/wrapt_1597851473852/work
+wurlitzer @ file:///opt/concourse/worker/volumes/live/bf42cded-f988-433c-5eca-a88c3905d29b/volume/wurlitzer_1617224650715/work
+xlrd @ file:///tmp/build/80754af9/xlrd_1608072521494/work
+XlsxWriter==1.4.3
+xlwings==0.23.3
+xlwt==1.3.0
+xmltodict==0.12.0
+yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
+zict==2.0.0
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
+zope.event==4.5.0
+zope.interface==5.4.0
