@@ -123,7 +123,7 @@ insta-scrape==2.1.2
 instaloader==4.7.1
 intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
 ipykernel==5.5.5
-ipython==7.24.1
+ipython==7.31.1
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 isort @ file:///tmp/build/80754af9/isort_1616355431277/work
