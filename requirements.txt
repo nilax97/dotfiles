@@ -142,7 +142,7 @@ jupyter-client==6.1.13
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
 jupyter-core @ file:///opt/concourse/worker/volumes/live/c8df8dce-dbb3-46e7-649c-adf4ed2dd00a/volume/jupyter_core_1612213293829/work
 jupyter-packaging==0.10.2
-jupyter-server==1.8.0
+jupyter-server==1.15.4
 jupyterlab==3.0.16
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server==2.6.0
