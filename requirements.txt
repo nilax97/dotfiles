@@ -372,7 +372,7 @@ pyobjc-framework-WebKit==7.2
 pyodbc==4.0.30
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.15.4
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.9.0
