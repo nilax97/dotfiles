@@ -234,7 +234,7 @@ PyGithub==1.55
 pygithub3==0.5.1
 Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
 PyGObject==3.40.1
-PyJWT==2.1.0
+PyJWT==2.4.0
 pylint==2.8.3
 pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
 pyls-spyder==0.4.0
