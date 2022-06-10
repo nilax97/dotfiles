@@ -61,7 +61,7 @@ conda-verify==3.4.2
 configparser==5.0.2
 contextlib2==0.6.0.post1
 contractions==0.0.49
-cookiecutter==1.7.3
+cookiecutter==2.1.1
 crayons==0.4.0
 cryptography @ file:///opt/concourse/worker/volumes/live/c515855a-effc-46df-74dc-542901b701da/volume/cryptography_1616769282442/work
 cssselect2==0.4.1
