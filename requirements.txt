@@ -185,7 +185,7 @@ numba @ file:///opt/concourse/worker/volumes/live/263a950e-7ddc-4297-63df-0c284f
 numexpr @ file:///opt/concourse/worker/volumes/live/e845d683-bbb9-4fa2-79ce-743b84c61560/volume/numexpr_1618856522192/work
 numpy==1.20.3
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-oauthlib==3.1.1
+oauthlib==3.2.1
 olefile==0.46
 opencv-python==4.5.2.52
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
